@@ -6,4 +6,4 @@ Permissions needed are EduRoster.ReadBasic and DeviceManagementManagedDevices.Re
 
 Dependencies include a Custom Connector and a Flow which are also included.
 
-![Video in Action](Autopilot-Prestager/Demo/AutopilotPrestager.gif)
+![Video in Action](./Demo/AutopilotPrestager.gif)
