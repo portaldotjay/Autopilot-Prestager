@@ -5,3 +5,5 @@ This app uses Graph to gather a list of schools, list the Windows Autopilot Devi
 Permissions needed are EduRoster.ReadBasic and DeviceManagementManagedDevices.ReadWrite.All.
 
 Dependencies include a Custom Connector and a Flow which are also included.
+
+![Video in Action](demo/AutopilotPrestager.gif)
